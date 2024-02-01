@@ -1,5 +1,3 @@
-'use client'
-
 import { Bebas_Neue } from "next/font/google";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
